@@ -32,7 +32,4 @@ python3 ./src/main.py
 
 As can be seen from above, the algorithm divides the available bandwidth fairly equally.
 
-## Contributors:
-- [aryadas98](https://github.com/aryadas98)
-- [ankurD98](https://github.com/ankurD98)
-- [atul337](https://github.com/atul337)
+
